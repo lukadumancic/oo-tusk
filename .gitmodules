@@ -1,0 +1,9 @@
+[submodule "tusk-desktop"]
+	path = tusk-desktop
+	url = git@github.com:jezicKarlo/tusk-rest.git
+[submodule "tusk-web-mobile"]
+	path = tusk-web-mobile
+	url = git@github.com:lukadumancic/tusk.git
+[submodule "tusk-rest"]
+	path = tusk-rest
+	url = git@github.com:jezicKarlo/tusk-rest.git
