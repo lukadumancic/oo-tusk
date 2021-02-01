@@ -12,7 +12,19 @@
 
 [Web app](http://web-tusk.herokuapp.com)
 
-## Tusk android app
+## Tusk mobile apps
 
-[Android app](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40lukadumancic/tusk-5719bf38bbbe4f97abfc69af49fe11c0-signed.apk)
+IOS and Android apps can be seen using Expo GO APP
+
+Scan Expo QR code using Expo GO app to see the app
+
+QR CODE image in the root directory
+
+This linkg might not work without login
+[EXPO](https://expo.io/@lukadumancic/projects/tusk)
+
+
+Direct link to Android APP
+
+[Android app](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40lukadumancic/tusk-74c903a3d9b147eaa244bbfdf5840910-signed.apk)
 
