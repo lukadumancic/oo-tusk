@@ -7,3 +7,6 @@
 [submodule "tusk-rest"]
 	path = tusk-rest
 	url = git@github.com:jezicKarlo/tusk-rest.git
+[submodule "tusk-backend-rest"]
+	path = tusk-backend-rest
+	url = git@github.com:jezicKarlo/tusk-rest.git
